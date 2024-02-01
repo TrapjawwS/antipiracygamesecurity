@@ -23,3 +23,5 @@ fruit ninja
 goodboy galaxy
 happy wheels
 jetpack joyride
+street fighter 3: third strike
+marvel vs capcom
